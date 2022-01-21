@@ -1,0 +1,1 @@
+Resoluções dos exercícios do desafio realizado no hackerrank.
